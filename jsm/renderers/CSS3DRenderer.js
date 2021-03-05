@@ -1,7 +1,7 @@
 import {
 	Matrix4,
 	Object3D
-} from 'https://threejs.org/build/three.js';
+} from 'https://threejs.org/build/three.module.js';
 
 /**
  * Based on http://www.emagix.net/academic/mscs-project/item/camera-sync-with-css3-and-webgl-threejs
